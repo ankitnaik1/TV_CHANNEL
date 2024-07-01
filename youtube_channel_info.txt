@@ -1,30 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
-Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
-https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
-
-Gazi TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
-https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
-
-GNN | Urdu | |
-https://www.youtube.com/channel/UC35KuZBNIj4S5Ls0yjY-UHQ/live
-
-ABC News | English | https://s.abcnews.com/assets/beta/assets/abcn_images/abcnews_pearl_stacked.png |
-https://www.youtube.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q/live
-
-News 12 New York | English | https://yt3.ggpht.com/ytc/AAUvwniz5-dorFPbRs3b2CYaJSV2VOVxq53EqcwdWOF8Gg=s900-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
-
-V9 Gujarati | Gujarati | https://yt3.ggpht.com/ytc/AKedOLR8E478gf4F3e11eXaV1Th88zd2m4OEOp77VpnE1A=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=Mvz3_9O4p4s
-
 ABP Asmita | Gujarati | https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UC3C6_1ETXfE807LltDbKYxg/live
+https://www.youtube.com/watch?v=OF1PR4b-1Bk
 
 Sky News | News | |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+https://www.youtube.com/watch?v=oJUvTVdTMyY
 
 NDTV Profit | News | |
 https://www.youtube.com/watch?v=GPKXF3mzAlU
@@ -40,9 +21,6 @@ https://www.youtube.com/watch?v=Xmm3Kr5P1Uw
 
 Aaj Tak | News | |
 https://www.youtube.com/watch?v=Nq2wYlWFucg
-
-The World Live- earthTV | Entertainment | |
-https://www.youtube.com/watch?v=BW6yxWvqEd0
 
 PJ Masks | Kids | |
 https://www.youtube.com/watch?v=6E-BS0wpPQk
@@ -65,9 +43,6 @@ https://www.youtube.com/watch?v=h99SrJB7F5M
 DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
-Sky News | International News | https://yt3.ggpht.com/E96qzkAoX81DQs7wqRHR4rNk1esa4quBPzda2QRzImlhoHOVgRdAN8o-S0Rb_hpygo_n4LdhwTE=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
-
 GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
@@ -76,42 +51,6 @@ https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live
 
 ABP NEWS | Hindi | |
 https://www.youtube.com/watch?v=odmHZVWb7ws
-
-Bharat Samachar | Hindi | |
-https://www.youtube.com/watch?v=XzXhudlGtOs
-
-Geo News  | Pakistan | https://w7.pngwing.com/pngs/660/764/png-transparent-geo-logo-pakistan-geo-tv-geo-news-television-channel-ten-miscellaneous-television-blue.png |
-https://www.youtube.com/watch?v=q130lTDaua0
-
-ARY News | Pakistan | https://w7.pngwing.com/pngs/178/61/png-transparent-ary-news-pakistan-electronic-media-regulatory-authority-breaking-news-news-live-text-rectangle-logo-thumbnail.png |
-https://www.youtube.com/watch?v=sUKwTVAc0Vo
-
-SAMMA News | Pakistan | https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540954.png |
-https://www.youtube.com/watch?v=VGm487f2R5k
-
-Dawn News | Pakistan | https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511541300.png |
-https://www.youtube.com/watch?v=BR4vk4oKp2E 
-
-92 HD News  | Pakistan | https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540898.png |
-https://www.youtube.com/watch?v=NIKQkA-awu0
-
-HUM News | Pakistan | https://www.darsaal.com/media/tv/2018/05/_1/200x200/pic_1527785751.png |
-https://www.youtube.com/watch?v=djYuo6X6EYY
-
-GNN News | Pakistan | https://upload.wikimedia.org/wikipedia/en/1/1b/GNN_News_logo.png |
-https://www.youtube.com/watch?v=9EpMU8Nlyow
-
-Public News | Pakistan | https://www.darsaal.com/media/tv/2018/08/_1/200x200/pic_1533839822.png |
-https://www.youtube.com/watch?v=aIW9l9cLwTA
-
-24 News | Pakistan | https://www.darsaal.com/media/tv/2017/11/_1/200x200/pic_1511540857.png |
-https://www.youtube.com/watch?v=VkIheiVXf_8/live
-
-Dunya News | Pakistan | https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dunya_News_Logo.svg/1200px-Dunya_News_Logo.svg.png |
-https://www.youtube.com/watch?v=_Q6X1VylryE
-
-BOL News | Pakistan | https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png |
-https://www.youtube.com/watch?v=YlKY5PU4M4E
 
 WB Kids live | Kids | |
 https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
@@ -140,14 +79,8 @@ https://www.youtube.com/user/SaamTV/live
 Lokshahi News | Marathi | |
 https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
 
-ZoomOn News | Marathi | |
-https://www.youtube.com/c/zoomonnews/live
-
 Shree Siddhivinayak Temple Live | Devotional | |
 https://www.youtube.com/channel/UCNH47WOVuA2zkP2cP1sEynw/live
-
-Wion | English | |
-https://www.youtube.com/channel/UC_gUM8rL-Lrg6O3adPW9K1g/live
 
 CGTN News Live | News | |
 https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
@@ -158,122 +91,8 @@ https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
 Times Now | English | |
 https://www.youtube.com/channel/UC6RJ7-PaXg6TIH2BzZfTV7w/live
 
-Euronews | English | |
-https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
-
-Rangin Kaman | Persian | |
-https://www.youtube.com/watch?v=kekJOJpHuIQ
-
-SBT SC | Entertainment | |
-https://www.youtube.com/channel/UCEzVIIPtAIfsRCEHwn4AOzw/live
-
-Geo News Live | Pakistan | |
-https://www.youtube.com/c/geonews/live
-
-ARY News Live | Pakistan | |
-https://www.youtube.com/c/ArynewsTvofficial/live
-
-HSN | English | |
-https://www.youtube.com/watch?v=1ph8qQnjXts
-
-HSN2 | English | |
-https://www.youtube.com/watch?v=q-BvtDrTnxc
-
-Al Jazeera | English | |
-https://www.youtube.com/c/aljazeeraenglish/live
-
-Hindi hits LOve | Hindi | https://cdn.dribbble.com/users/3547568/screenshots/14395014/media/0b94c75b97182946d495f34c16eab987.jpg |
-https://www.youtube.com/channel/UCf5kg_rzyRBn0jbpVCmBBcw/live
-
-NASA Live: Official Stream of NASA TV | Documentary | |
-https://www.youtube.com/watch?v=21X5lGlDOfg
-
-NASA Live: Official Stream of NASA TV's Media Channel | Documentary | |
-https://www.youtube.com/@NASA/live
-
-New Year Music Mix 2023 - Ed Sheeran, Martin Garrix, Avicii, Kygo, Dua Lipa, The Chainsmokers Style | Music | |
-https://www.youtube.com/watch?v=9ls0Eh79Olc
-
-Channels Television Live Stream | English | |
-https://www.youtube.com/watch?v=dfB0qmJo1eM
-
-Live - Sport Camera - Deerfield Beach, Florida USA | Livecam | |
-https://www.youtube.com/watch?v=Lic2fD18wnw
-
-Michael Weiss Street Brasov - Pilvax Restaurant & Wine Bar | Livecam | |
-https://www.youtube.com/watch?v=G05wmWFDtSo
-
-ArcadiaTV World (Australia) | Documentary | |
-https://www.youtube.com/watch?v=8k_PgfHS4Yk
-
-LIVE 24/7 Rolling Cam Venice - Live Cam in Venice Italy | Livecam | |
-https://www.youtube.com/watch?v=ph1vpnYIxJk
-
-Cab ride from some of the most scenic railways in the world | Documentary | |
-https://www.youtube.com/watch?v=lx5vVGxusnc
-
-Proctor Gallagher Institute 24/7 Live Stream | Documentary | |
-https://www.youtube.com/watch?v=M_VVmIear3w
-
-Peppa Pig Tales LIVE 24/7 Official Stream EN | Kids | |
-https://www.youtube.com/watch?v=xsDTMAgpS4A
-
-Journey to the West - Classic Chinese Cartoons for Kids CN | Kids | |
-https://www.youtube.com/watch?v=Sm6Yzcl-JMY
-
-Winnipeg's Retro Weather Channel | Weather | https://yt3.ggpht.com/DF-Z0-Ga4j6o3gtzSInOL5WkwmiklrC3LEYMSFgavqzPW-67aF8HryUR1dWZZ2AX41X6ThAqtQY=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@weatherchannelwinnipeg/live
-
-Ski Panorama | webcam | |
-https://www.youtube.com/@feratel_yourwindowtotheworld/live
-
-Summer Mix 2023  | Music | https://i.imgur.com/S3Ob883.png |
-https://www.youtube.com/watch?v=9ls0Eh79Olc
-
-New Year Music Mix 2023 | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=8rl1OR7r8c0
-
-Hits Radio 1 Live Pop Radio | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=HQtFR3mhzOY
-
-The Good Life Radio | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Deep House Radio | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=19hKXI1ENrY
-
-Chill Out Music Mixe | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=m52ynxt1mOo
-
-Chillout Lounge | Music | https://i.imgur.com/rVWYpIT.png |
-https://www.youtube.com/watch?v=9UMxZofMNbA
-
-ABC News Australia | News | https://i.imgur.com/6Vw9jUF.png |
-https://www.youtube.com/watch?v=vOTiJkg1voo
-
 Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png |
-https://www.youtube.com/watch?v=dp8PhLsUcFE
-
-SKY NEWS | UK | https://i.imgur.com/h9vCGRv.png |
-https://www.youtube.com/watch?v=9Auq9mYxFEE
-
-HUM TV HD  | Pakistan | https://hum.tv/wp-content/uploads/2022/03/logo-2.png |
-https://www.youtube.com/watch?v=ZrZo9gSOZL4
-
-TimCastIRL | Political Podcast | https://th.bing.com/th/id/OIP.V8EHOTTrr9QMNjGWktpJzgHaHa?pid=ImgDet&rs=1 |
-https://www.youtube.com/user/@TimcastIRL/live
-
-Fightful TV Live | Wrestling | https://yt3.googleusercontent.com/oBdqmxfmTutDSSHKnJcXPW45Hn5cSbjZvHzLnxkjaVzdWlddDjR9TjthXjv4Jqpxja3DAEg49w=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@Fightful/live
-
-F4W TV Live | Wrestling | https://yt3.googleusercontent.com/ytc/AGIKgqM0c71O73VxVTNpYUyl_nMdM9Yp55SIgS1-foql=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@F4WOnlinetv/live
-
-Solomonster Sounds Off Live | Wrestling | https://yt3.googleusercontent.com/K4NYzoYhZdZSHjpFjqVim2mBg2tlsqk0hc8F3xQ7Iy3gCLHQob6iIApc2vBiWjJGLUpTYCzoYg=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@TheSolomonster/live
-
-POST Wrestling Live | Wrestling | https://yt3.googleusercontent.com/LxgvHIFqS8sFGOo2SrrH6iDlw4Nsf0nycSBJBm9oddaUYOlAZBB_9Oye4NDDZoFCA42MTDxsVPY=s176-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/@POSTWrestling/live
+https://www.youtube.com/live/iyOq8DhaMYw
 
 Aastha TV | Spiritual | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
 https://www.youtube.com/@AasthaChannel/live
