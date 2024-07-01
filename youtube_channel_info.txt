@@ -1,31 +1,31 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-ABP Asmita | Gujarati | https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj |
+ABP Asmita | Gujarati | https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj | 10
 https://www.youtube.com/watch?v=OF1PR4b-1Bk
 
-Sky News | News | |
+Sky News | News | | 11
 https://www.youtube.com/watch?v=oJUvTVdTMyY
 
-NDTV India | News | |
+NDTV India | News | | 12
 https://www.youtube.com/watch?v=MN8p-Vrn6G0
 
-Aaj Tak | News | |
+Aaj Tak | News | | 13
 https://www.youtube.com/watch?v=Nq2wYlWFucg
 
-DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |
+DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |14
 https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
 
-GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj |
+GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj | 15
 https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
 
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj |
+Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 16
 https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
 
-ABP NEWS | Hindi | |
+ABP NEWS | Hindi | | 17
 https://www.youtube.com/watch?v=odmHZVWb7ws
 
-WB Kids live | Kids | |
+WB Kids live | Kids | | 18
 https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
 
 Zee 24 Taas | Marathi | | 20
@@ -33,9 +33,6 @@ https://www.youtube.com/user/zee24taas/live
 
 TV9 Marathi | Marathi | | 21
 https://www.youtube.com/channel/UCdOSeEq9Cs2Pco7OCn2_i5w/live
-
-News18 Lokmat | Marathi | | 22
-https://www.youtube.com/channel/UCrcpw88HvKJ0skdsHniCJtQ/live
 
 ABP MAZHA | Marathi | | 23
 https://www.youtube.com/channel/UCH7nv1A9xIrAifZJNvt7cgA/live
@@ -46,20 +43,17 @@ https://www.youtube.com/user/SaamTV/live
 Lokshahi News | Marathi | | 25
 https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
 
-CGTN News Live | News | |
+CGTN News Live | News | | 26
 https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
 
-RT | News | |
-https://www.youtube.com/channel/UCpwvZwUam-URkxB7g4USKpg/live
-
-Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png |
+Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png | 27
 https://www.youtube.com/live/iyOq8DhaMYw
 
-News24 | News | | 
+News24 | News | | 28
 https://www.youtube.com/live/cypBrJzVaKY
 
-CNBC TV18 | News | https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj | 101
+CNBC TV18 | News | https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj | 29
 https://www.youtube.com/live/1_Ih0JYmkjI
 
-Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 100
+Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 30
 https://www.youtube.com/live/ov9RGGoDjnI
