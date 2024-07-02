@@ -1,59 +1,38 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-ABP Asmita | Gujarati | https://yt3.ggpht.com/ytc/AAUvwnir1JsG9lCOwHEgKGyy2nY-Q3JzxYfiud5rNfsmTw=s88-c-k-c0x00ffffff-no-rj | 10
-https://www.youtube.com/watch?v=OF1PR4b-1Bk
-
-Sky News | News | | 11
-https://www.youtube.com/watch?v=oJUvTVdTMyY
-
-NDTV India | News | | 12
-https://www.youtube.com/watch?v=MN8p-Vrn6G0
-
-Aaj Tak | News | | 13
-https://www.youtube.com/watch?v=Nq2wYlWFucg
-
-DW News | International News | https://yt3.ggpht.com/ytc/AKedOLSGYwgujx1VgMYEpdurTfh8NRmOehOXf16DeMKoDfw=s176-c-k-c0x00ffffff-no-rj |14
-https://www.youtube.com/channel/UCknLrEdhRCp1aegoMqRaCZg/live
-
-GBNews | International News | https://yt3.ggpht.com/ytc/AKedOLTmW20Du3RIn5YTCud3cZUaCWDkh_XdJ3fNKf_r=s176-c-k-c0x00ffffff-no-rj | 15
-https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
-
-Al Jazeera English | International News | https://yt3.ggpht.com/ytc/AKedOLQuzkdeUxIhS3KWZrYcDf4F8k2VC6SHZt2HlyzCM_c=s176-c-k-c0x00ffffff-no-rj | 16
-https://www.youtube.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg/live    
-
-ABP NEWS | Hindi | | 17
-https://www.youtube.com/watch?v=odmHZVWb7ws
-
 WB Kids live | Kids | | 18
 https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
 
-Zee 24 Taas | Marathi | | 20
-https://www.youtube.com/user/zee24taas/live
+News24 | News | https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj | 28
+https://www.youtube.com/live/cypBrJzVaKY
 
-TV9 Marathi | Marathi | | 21
-https://www.youtube.com/channel/UCdOSeEq9Cs2Pco7OCn2_i5w/live
+NDTV India | News | https://yt3.googleusercontent.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww=s176-c-k-c0x00ffffff-no-rj | 12
+https://www.youtube.com/live/MN8p-Vrn6G0
 
-ABP MAZHA | Marathi | | 23
-https://www.youtube.com/channel/UCH7nv1A9xIrAifZJNvt7cgA/live
+Aaj Tak | News | https://yt3.googleusercontent.com/ytc/AIdro_m1WLxquYeEO9VgyA7-cYFrn_hd2dSaNtmL8-NIHMCQIuPQ=s176-c-k-c0x00ffffff-no-rj | 13
+https://www.youtube.com/watch?v=Nq2wYlWFucg
 
-Saam TV | Marathi | | 24
-https://www.youtube.com/user/SaamTV/live
+ABP NEWS | Hindi | https://yt3.googleusercontent.com/ytc/AIdro_k_0j90OAP3tEuBLbhr8eMPB7Dgu-xgLi3xFzG2KH0OtLKX=s176-c-k-c0x00ffffff-no-rj | 17
+https://www.youtube.com/watch?v=nyd-xznCpJc
 
-Lokshahi News | Marathi | | 25
+Zee 24 Taas | Marathi | https://yt3.googleusercontent.com/8RWTnNmhpghFXB3QE6iQZFly4r9gBdfk8938GmRk5jBnu6g_kFa8UateVnAJZ846mXcDJIqRZI8=s176-c-k-c0x00ffffff-no-rj | 20
+https://www.youtube.com/watch?v=NXdV9GqtXHc
+
+ABP MAZHA | Marathi | https://yt3.googleusercontent.com/ytc/AIdro_nD-S56z9X07knh80RdBw0HL-KP7VeHrdN8_NeQs5KrRow=s176-c-k-c0x00ffffff-no-rj | 23
+https://www.youtube.com/watch?v=m0MD6Ukm0cQ
+
+Lokshahi News | Marathi | https://yt3.googleusercontent.com/0mbfMZS5ms-WeLvlLqm4oJBAD_ijgpJ0wDxFoxmqgF0LEPD49TDAfIda7kk2Jg89eKyUGm8K-Ik=s176-c-k-c0x00ffffff-no-rj | 25
 https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
 
-CGTN News Live | News | | 26
-https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
+Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 30
+https://www.youtube.com/live/ov9RGGoDjnI
 
-Bloomberg Global Financial News | News | https://i.imgur.com/vR0TpN9.png | 27
+Bloomberg Global Financial News | News | https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj | 27
 https://www.youtube.com/live/iyOq8DhaMYw
-
-News24 | News | | 28
-https://www.youtube.com/live/cypBrJzVaKY
 
 CNBC TV18 | News | https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj | 29
 https://www.youtube.com/live/1_Ih0JYmkjI
 
-Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 30
-https://www.youtube.com/live/ov9RGGoDjnI
+CNA | News | https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s176-c-k-c0x00ffffff-no-rj | 31
+https://www.youtube.com/live/XWq5kBlakcQ
