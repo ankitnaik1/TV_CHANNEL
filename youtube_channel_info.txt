@@ -1,35 +1,29 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <tvg-chno>
 
-Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 30 | 30
-https://www.youtube.com/@pudhari_news/live
-
-News24 | News | https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj | 28 | 28
-https://www.youtube.com/live/cypBrJzVaKY
-
-NDTV India | News | https://yt3.googleusercontent.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww=s176-c-k-c0x00ffffff-no-rj | 12 | 12
-https://www.youtube.com/live/MN8p-Vrn6G0
-
-Aaj Tak | News | https://yt3.googleusercontent.com/ytc/AIdro_m1WLxquYeEO9VgyA7-cYFrn_hd2dSaNtmL8-NIHMCQIuPQ=s176-c-k-c0x00ffffff-no-rj | 13
-https://www.youtube.com/watch?v=Nq2wYlWFucg
-
-ABP NEWS | Hindi | https://yt3.googleusercontent.com/ytc/AIdro_k_0j90OAP3tEuBLbhr8eMPB7Dgu-xgLi3xFzG2KH0OtLKX=s176-c-k-c0x00ffffff-no-rj | 17
-https://www.youtube.com/watch?v=nyd-xznCpJc
-
 Zee 24 Taas | Marathi | https://yt3.googleusercontent.com/8RWTnNmhpghFXB3QE6iQZFly4r9gBdfk8938GmRk5jBnu6g_kFa8UateVnAJZ846mXcDJIqRZI8=s176-c-k-c0x00ffffff-no-rj | 20 | 20
 https://www.youtube.com/watch?v=NXdV9GqtXHc
 
-ABP MAZHA | Marathi | https://yt3.googleusercontent.com/ytc/AIdro_nD-S56z9X07knh80RdBw0HL-KP7VeHrdN8_NeQs5KrRow=s176-c-k-c0x00ffffff-no-rj | 23 | 23
+ABP MAZHA | Marathi | https://yt3.googleusercontent.com/ytc/AIdro_nD-S56z9X07knh80RdBw0HL-KP7VeHrdN8_NeQs5KrRow=s176-c-k-c0x00ffffff-no-rj | 21 | 21
 https://www.youtube.com/watch?v=m0MD6Ukm0cQ
 
-Lokshahi News | Marathi | https://yt3.googleusercontent.com/0mbfMZS5ms-WeLvlLqm4oJBAD_ijgpJ0wDxFoxmqgF0LEPD49TDAfIda7kk2Jg89eKyUGm8K-Ik=s176-c-k-c0x00ffffff-no-rj | 25
+Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 22 | 22
+https://www.youtube.com/@pudhari_news/live
+
+Lokshahi News | Marathi | https://yt3.googleusercontent.com/0mbfMZS5ms-WeLvlLqm4oJBAD_ijgpJ0wDxFoxmqgF0LEPD49TDAfIda7kk2Jg89eKyUGm8K-Ik=s176-c-k-c0x00ffffff-no-rj | 23 | 23
 https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
 
-Bloomberg Global Financial News | News | https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj | 27
-https://www.youtube.com/live/iyOq8DhaMYw
+News24 | News | https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj | 24 | 24
+https://www.youtube.com/live/cypBrJzVaKY
 
-CNBC TV18 | News | https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj | 29
+NDTV India | News | https://yt3.googleusercontent.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww=s176-c-k-c0x00ffffff-no-rj | 25 | 25
+https://www.youtube.com/live/MN8p-Vrn6G0
+
+CNBC TV18 | News | https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj | 26 | 26
 https://www.youtube.com/live/1_Ih0JYmkjI
 
-CNA | News | https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s176-c-k-c0x00ffffff-no-rj | 31
+Bloomberg Global Financial News | News | https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj | 27 | 27
+https://www.youtube.com/live/iyOq8DhaMYw
+
+CNA | News | https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s176-c-k-c0x00ffffff-no-rj | 28 | 28
 https://www.youtube.com/live/XWq5kBlakcQ
