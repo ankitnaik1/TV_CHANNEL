@@ -41,6 +41,7 @@ jobs:
           pwd
           chmod +x autorun.sh
           ./autorun.sh
+          cat base.m3u youtube.m3u > channels.m3u
 
       - name: git add
         run: |
