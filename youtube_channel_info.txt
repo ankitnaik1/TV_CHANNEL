@@ -1,10 +1,10 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <tvg-chno>
 
-WB Kids live | Kids | | 18
-https://www.youtube.com/channel/UC9trsD1jCTXXtN3xIOIU8gg/live
+Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 30 | 30
+https://www.youtube.com/@pudhari_news/live
 
-News24 | News | https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj | 28
+News24 | News | https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj | 28 | 28
 https://www.youtube.com/live/cypBrJzVaKY
 
 NDTV India | News | https://yt3.googleusercontent.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww=s176-c-k-c0x00ffffff-no-rj | 12
@@ -24,9 +24,6 @@ https://www.youtube.com/watch?v=m0MD6Ukm0cQ
 
 Lokshahi News | Marathi | https://yt3.googleusercontent.com/0mbfMZS5ms-WeLvlLqm4oJBAD_ijgpJ0wDxFoxmqgF0LEPD49TDAfIda7kk2Jg89eKyUGm8K-Ik=s176-c-k-c0x00ffffff-no-rj | 25
 https://www.youtube.com/channel/UC2ut_DrUZvO0BzUxZ_g9fXQ/live
-
-Pudhari | News | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 30
-https://www.youtube.com/live/ov9RGGoDjnI
 
 Bloomberg Global Financial News | News | https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj | 27
 https://www.youtube.com/live/iyOq8DhaMYw
