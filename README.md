@@ -1,5 +1,7 @@
 
-<h1 align="center"> YouTube_to_m3u </h1>
+<h1 align="center"> TV Channel </h1>
+
+#### for my Personal Use
 
 [![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
 
@@ -25,7 +27,3 @@ chmod +x autorun.sh
 ```
 
 Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
-
-### Support
-
-🙂 https://www.buymeacoffee.com/benmoose39
