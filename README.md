@@ -7,7 +7,7 @@
 
 `https://raw.githubusercontent.com/ankitnaik1/TV_CHANNEL/main/channels.m3u`
 
-Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
+Updated m3u links of YouTube live channels, **auto-updated every 4 hours**.
 
 
 ### Add more channels
