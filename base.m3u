@@ -1,3 +1,10 @@
+########################################################################
+#  ███████ ██████  ███████  █████  ████████ ███████ ████████ ██    ██  #
+#  ██      ██   ██ ██      ██   ██    ██       ███     ██    ██    ██  #
+#  █████   ██████  ███████ ███████    ██      ███      ██    ██    ██  #
+#  ██      ██   ██      ██ ██   ██    ██     ███       ██     ██  ██   #
+#  ███████ ██   ██ ███████ ██   ██    ██    ███████    ██      ████    #
+########################################################################
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml,http://192.168.1.111:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="1.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="1" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="1" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/37E0514C5755076EF914AACBD733F25B.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
 http://192.168.1.111:8409/iptv/channel/1.ts
@@ -10,6 +17,13 @@ http://192.168.1.111:8409/iptv/channel/5.ts
 #EXTINF:0 tvg-id="8.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="8" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="8" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/images/ersatztv-500.png" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
 http://192.168.1.111:8409/iptv/channel/8.ts
 
+####################################################################
+#  ███████  █████  ███    ███ ███████ ██    ██ ███    ██  ██████   #
+#  ██      ██   ██ ████  ████ ██      ██    ██ ████   ██ ██        #
+#  ███████ ███████ ██ ████ ██ ███████ ██    ██ ██ ██  ██ ██   ███  #
+#       ██ ██   ██ ██  ██  ██      ██ ██    ██ ██  ██ ██ ██    ██  #
+#  ███████ ██   ██ ██      ██ ███████  ██████  ██   ████  ██████   #
+####################################################################
 #EXTINF:-1 channel-id="samsung-INBD21000016Y" tvg-id="INBD21000016Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" tvg-chno="1000" group-title="India" , The Movie Club
 https://jmp2.uk/SamsungTVPlus/INBD21000016Y.m3u8
 
@@ -252,3 +266,11 @@ https://jmp2.uk/SamsungTVPlus/INBC28000144H.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBA4900001DL" tvg-id="INBA4900001DL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900001DL_20240131T032250SQUARE.png_20240131032251.png" tvg-chno="1447" group-title="India" , Qwest TV
 https://jmp2.uk/SamsungTVPlus/INBA4900001DL.m3u8
+
+#################################################################
+#  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
+#   ██  ██  ██    ██ ██    ██    ██    ██    ██ ██   ██ ██      #
+#    ████   ██    ██ ██    ██    ██    ██    ██ ██████  █████   #
+#     ██    ██    ██ ██    ██    ██    ██    ██ ██   ██ ██      #
+#     ██     ██████   ██████     ██     ██████  ██████  ███████ #
+#################################################################
