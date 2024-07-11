@@ -6,16 +6,18 @@
 #  ██      ██   ██      ██ ██   ██    ██     ███       ██     ██  ██   #
 #  ███████ ██   ██ ███████ ██   ██    ██    ███████    ██      ████    #
 ########################################################################
-#EXTINF:0 tvg-id="1.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="1" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="1" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/37E0514C5755076EF914AACBD733F25B.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
+#EXTINF:0 tvg-id="1.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="1" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
 http://192.168.1.111:8409/iptv/channel/1.ts
-#EXTINF:0 tvg-id="3.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="3" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="3" tvg-name="KIDs ANIME TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", KIDs ANIME TV
-http://192.168.1.111:8409/iptv/channel/3.ts
-#EXTINF:0 tvg-id="4.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="4" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="4" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
-http://192.168.1.111:8409/iptv/channel/4.ts
-#EXTINF:0 tvg-id="5.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="5" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="5" tvg-name="HarryPotter Movies" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter Movies
-http://192.168.1.111:8409/iptv/channel/5.ts
-#EXTINF:0 tvg-id="8.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="8" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="8" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/images/ersatztv-500.png" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
-http://192.168.1.111:8409/iptv/channel/8.ts
+#EXTINF:0 tvg-id="10.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="10" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="10" tvg-name="HarryPotter Movies" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter Movies
+http://192.168.1.111:8409/iptv/channel/10.ts
+#EXTINF:0 tvg-id="11.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="11" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="11" tvg-name="KIDs ANIME TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", KIDs ANIME TV
+http://192.168.1.111:8409/iptv/channel/11.ts
+#EXTINF:0 tvg-id="14.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="14" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="14" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/C13E952E2BD8CCC8B6D71BB8EDF81EFB.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
+http://192.168.1.111:8409/iptv/channel/14.ts
+#EXTINF:0 tvg-id="50.etv" channel-id="h9LvtLSX7EGIGB45aKkQgA" channel-number="50" CUID="h9LvtLSX7EGIGB45aKkQgA" tvg-chno="50" tvg-name="Mad Men" tvg-logo="http://192.168.1.111:8409/iptv/logos/33857FE55B6A55F86ADB1BC0E86FF4C9.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Mad Men
+http://192.168.1.111:8409/iptv/channel/50.ts
+#EXTINF:0 tvg-id="51.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="51" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="51" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/60D76F31E4EF02F6EDE1D8852C49560C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
+http://192.168.1.111:8409/iptv/channel/51.ts
 
 ####################################################################
 #  ███████  █████  ███    ███ ███████ ██    ██ ███    ██  ██████   #
@@ -24,22 +26,22 @@ http://192.168.1.111:8409/iptv/channel/8.ts
 #       ██ ██   ██ ██  ██  ██      ██ ██    ██ ██  ██ ██ ██    ██  #
 #  ███████ ██   ██ ██      ██ ███████  ██████  ██   ████  ██████   #
 ####################################################################
-#EXTINF:-1 channel-id="samsung-INBD21000016Y" tvg-id="INBD21000016Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" tvg-chno="1000" group-title="India" , The Movie Club
+#EXTINF:-1 channel-id="samsung-INBD21000016Y" tvg-id="INBD21000016Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" tvg-chno="2" group-title="India" , The Movie Club
 https://jmp2.uk/SamsungTVPlus/INBD21000016Y.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20240417T022449SQUARE.png" tvg-chno="1001" group-title="India" , Comedy King
 https://jmp2.uk/SamsungTVPlus/INBD4700006JD.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD4800001IR" tvg-id="INBD4800001IR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240508T020849SQUARE.png" tvg-chno="1002" group-title="India" , South Station
+#EXTINF:-1 channel-id="samsung-INBD4800001IR" tvg-id="INBD4800001IR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240508T020849SQUARE.png" tvg-chno="3" group-title="India" , South Station
 https://jmp2.uk/SamsungTVPlus/INBD4800001IR.m3u8
 
-#EXTINF:-1 channel-id="samsung-IN1700003HF" tvg-id="IN1700003HF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20240626T024556SQUARE.png" tvg-chno="7" group-title="India" , Mastiii
+#EXTINF:-1 channel-id="samsung-IN1700003HF" tvg-id="IN1700003HF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20240626T024556SQUARE.png" tvg-chno="15" group-title="India" , Mastiii
 https://jmp2.uk/SamsungTVPlus/IN1700003HF.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN1300001NN" tvg-id="IN1300001NN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1300001NN_20240522T015912SQUARE.png" tvg-chno="1004" group-title="India" , Cricket Gold
 https://jmp2.uk/SamsungTVPlus/IN1300001NN.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD1300015JE" tvg-id="INBD1300015JE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300015JE_20230809T020929SQUARE.png_20230809020930.png" tvg-chno="1113" group-title="India" , Dangal TV
+#EXTINF:-1 channel-id="samsung-INBD1300015JE" tvg-id="INBD1300015JE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300015JE_20230809T020929SQUARE.png_20230809020930.png" tvg-chno="6" group-title="India" , Dangal TV
 https://jmp2.uk/SamsungTVPlus/INBD1300015JE.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC4300008IH" tvg-id="INBC4300008IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20240626T024554SQUARE.png" tvg-chno="1114" group-title="India" , Korean TV
@@ -51,7 +53,7 @@ https://jmp2.uk/SamsungTVPlus/INBA4900028KJ.m3u8
 #EXTINF:-1 channel-id="samsung-INBA510000407" tvg-id="INBA510000407" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA510000407_20220726T235649SQUARE.png_20220726235650.png" tvg-chno="1119" group-title="India" , True Crime Now
 https://jmp2.uk/SamsungTVPlus/INBA510000407.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" tvg-chno="1121" group-title="India" , The Q
+#EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" tvg-chno="7" group-title="India" , The Q
 https://jmp2.uk/SamsungTVPlus/INBD47000014D.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" tvg-chno="1125" group-title="India" , Pitaara Comedy
@@ -120,10 +122,10 @@ https://jmp2.uk/SamsungTVPlus/INBA4900030PY.m3u8
 #EXTINF:-1 channel-id="samsung-INBA5100006V5" tvg-id="INBA5100006V5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100006V5_20240131T032407SQUARE.png_20240131032408.png" tvg-chno="1229" group-title="India" , Billiard TV
 https://jmp2.uk/SamsungTVPlus/INBA5100006V5.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD1300021X3" tvg-id="INBD1300021X3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300021X3_20231011T013448SQUARE.png_20231011013449.png" tvg-chno="1262" group-title="India" , Pogo
+#EXTINF:-1 channel-id="samsung-INBD1300021X3" tvg-id="INBD1300021X3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300021X3_20231011T013448SQUARE.png_20231011013449.png" tvg-chno="13" group-title="India" , Pogo
 https://jmp2.uk/SamsungTVPlus/INBD1300021X3.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD13000205L" tvg-id="INBD13000205L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231115T014715SQUARE.png_20231115014716.png" tvg-chno="2" group-title="India" , Cartoon Network
+#EXTINF:-1 channel-id="samsung-INBD13000205L" tvg-id="INBD13000205L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231115T014715SQUARE.png_20231115014716.png" tvg-chno="12" group-title="India" , Cartoon Network
 https://jmp2.uk/SamsungTVPlus/INBD13000205L.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC4300009W5" tvg-id="INBC4300009W5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300009W5_20230726T002247SQUARE.png_20230726002248.png" tvg-chno="1265" group-title="India" , Hooray Rhymes
@@ -153,7 +155,7 @@ https://jmp2.uk/SamsungTVPlus/INBC43000071R.m3u8
 #EXTINF:-1 channel-id="samsung-INBC43000034X" tvg-id="INBC43000034X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000034X_20230614T012649SQUARE.png_20230614012650.png" tvg-chno="1315" group-title="India" , BEST ACTION TV
 https://jmp2.uk/SamsungTVPlus/INBC43000034X.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD4700008UG" tvg-id="INBD4700008UG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700008UG_20240522T015919SQUARE.png" tvg-chno="1316" group-title="India" , RDC Movies
+#EXTINF:-1 channel-id="samsung-INBD4700008UG" tvg-id="INBD4700008UG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700008UG_20240522T015919SQUARE.png" tvg-chno="4" group-title="India" , RDC Movies
 https://jmp2.uk/SamsungTVPlus/INBD4700008UG.m3u8
 
 #EXTINF:-1 channel-id="samsung-IN1700002C8" tvg-id="IN1700002C8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700002C8_20240612T015015SQUARE.png" tvg-chno="1319" group-title="India" , Pitaara
@@ -168,7 +170,7 @@ https://jmp2.uk/SamsungTVPlus/INBA5100002L2.m3u8
 #EXTINF:-1 channel-id="samsung-INBA5100027U2" tvg-id="INBA5100027U2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100027U2_20220427T054556SQUARE.png_20220427054557.png" tvg-chno="1323" group-title="India" , Film Stream
 https://jmp2.uk/SamsungTVPlus/INBA5100027U2.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC4300006K2" tvg-id="INBC4300006K2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300006K2_20230614T012644SQUARE.png_20230614012645.png" tvg-chno="1366" group-title="India" , Cook & Bake
+#EXTINF:-1 channel-id="samsung-INBC4300006K2" tvg-id="INBC4300006K2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300006K2_20230614T012644SQUARE.png_20230614012645.png" tvg-chno="5" group-title="India" , Cook & Bake
 https://jmp2.uk/SamsungTVPlus/INBC4300006K2.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBA51000038B" tvg-id="INBA51000038B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png" tvg-chno="1367" group-title="India" , Fashion TV
@@ -216,20 +218,26 @@ https://jmp2.uk/SamsungTVPlus/INBD13000053R.m3u8
 #EXTINF:-1 channel-id="samsung-IN1600002IQ" tvg-id="IN1600002IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600002IQ_20240612T015010SQUARE.png" tvg-chno="1413" group-title="India" , Divya Bhajan
 https://jmp2.uk/SamsungTVPlus/IN1600002IQ.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC28000122W" tvg-id="INBC28000122W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20240131T032427SQUARE.png_20240131032428.png" tvg-chno="6" group-title="India" , 9X Music
+#EXTINF:-1 channel-id="samsung-INBC28000122W" tvg-id="INBC28000122W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20240131T032427SQUARE.png_20240131032428.png" tvg-chno="16" group-title="India" , 9X Music
 https://jmp2.uk/SamsungTVPlus/INBC28000122W.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png" tvg-chno="9" group-title="India" , 9X Jalwa
+#EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png" tvg-chno="17" group-title="India" , 9X Jalwa
 https://jmp2.uk/SamsungTVPlus/INBC2800013L6.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="1441" group-title="India" , Maiboli
+#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="19" group-title="India" , Maiboli
 https://jmp2.uk/SamsungTVPlus/INBC1500014OM.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png" tvg-chno="10" group-title="India" , 9X Jhakaas
+#EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png" tvg-chno="18" group-title="India" , 9X Jhakaas
 https://jmp2.uk/SamsungTVPlus/INBC28000144H.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBA4900001DL" tvg-id="INBA4900001DL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900001DL_20240131T032250SQUARE.png_20240131032251.png" tvg-chno="1447" group-title="India" , Qwest TV
 https://jmp2.uk/SamsungTVPlus/INBA4900001DL.m3u8
+
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-chno="8" ,Shemaroo Marathi Bana
+https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-chno="9" ,Shemaroo TV
+https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
 
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
