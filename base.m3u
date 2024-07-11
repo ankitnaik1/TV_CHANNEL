@@ -239,6 +239,9 @@ https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="8" ,Shemaroo Marathi Bana
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="99" ,Shemaroo Umang
+https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
+
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
 #   ██  ██  ██    ██ ██    ██    ██    ██    ██ ██   ██ ██      #
