@@ -233,11 +233,11 @@ https://jmp2.uk/SamsungTVPlus/INBC28000144H.m3u8
 #EXTINF:-1 channel-id="samsung-INBA4900001DL" tvg-id="INBA4900001DL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900001DL_20240131T032250SQUARE.png_20240131032251.png" tvg-chno="1447" group-title="India" , Qwest TV
 https://jmp2.uk/SamsungTVPlus/INBA4900001DL.m3u8
 
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-chno="8" ,Shemaroo Marathi Bana
-https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
-
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-chno="9" ,Shemaroo TV
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="9" ,Shemaroo TV
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
+
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="8" ,Shemaroo Marathi Bana
+https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
