@@ -1,23 +1,4 @@
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml,http://192.168.1.111:8409/iptv/xmltv.xml"
-########################################################################
-#  ███████ ██████  ███████  █████  ████████ ███████ ████████ ██    ██  #
-#  ██      ██   ██ ██      ██   ██    ██       ███     ██    ██    ██  #
-#  █████   ██████  ███████ ███████    ██      ███      ██    ██    ██  #
-#  ██      ██   ██      ██ ██   ██    ██     ███       ██     ██  ██   #
-#  ███████ ██   ██ ███████ ██   ██    ██    ███████    ██      ████    #
-########################################################################
-#EXTINF:0 tvg-id="1.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="1" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
-http://192.168.1.111:8409/iptv/channel/1.ts
-#EXTINF:0 tvg-id="10.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="10" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="10" tvg-name="HarryPotter Movies" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter Movies
-http://192.168.1.111:8409/iptv/channel/10.ts
-#EXTINF:0 tvg-id="11.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="11" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="11" tvg-name="KIDs ANIME TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", KIDs ANIME TV
-http://192.168.1.111:8409/iptv/channel/11.ts
-#EXTINF:0 tvg-id="14.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="14" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="14" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/C13E952E2BD8CCC8B6D71BB8EDF81EFB.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
-http://192.168.1.111:8409/iptv/channel/14.ts
-#EXTINF:0 tvg-id="50.etv" channel-id="h9LvtLSX7EGIGB45aKkQgA" channel-number="50" CUID="h9LvtLSX7EGIGB45aKkQgA" tvg-chno="50" tvg-name="Mad Men" tvg-logo="http://192.168.1.111:8409/iptv/logos/33857FE55B6A55F86ADB1BC0E86FF4C9.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Mad Men
-http://192.168.1.111:8409/iptv/channel/50.ts
-#EXTINF:0 tvg-id="51.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="51" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="51" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/60D76F31E4EF02F6EDE1D8852C49560C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
-http://192.168.1.111:8409/iptv/channel/51.ts
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
 
 ####################################################################
 #  ███████  █████  ███    ███ ███████ ██    ██ ███    ██  ██████   #
