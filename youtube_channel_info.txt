@@ -1,23 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <tvg-chno>
 
-Zee 24 Taas | Marathi | https://yt3.googleusercontent.com/8RWTnNmhpghFXB3QE6iQZFly4r9gBdfk8938GmRk5jBnu6g_kFa8UateVnAJZ846mXcDJIqRZI8=s176-c-k-c0x00ffffff-no-rj | 20 | 20
-https://www.youtube.com/watch?v=NXdV9GqtXHc
-
-ABP MAZHA | Marathi | https://yt3.googleusercontent.com/ytc/AIdro_nD-S56z9X07knh80RdBw0HL-KP7VeHrdN8_NeQs5KrRow=s176-c-k-c0x00ffffff-no-rj | 21 | 21
-https://www.youtube.com/watch?v=m0MD6Ukm0cQ
-
 Pudhari | Marathi | https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj | 22 | 22
 https://www.youtube.com/@pudhari_news/live
 
 Saam Tv | Marathi | https://yt3.googleusercontent.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB=s160-c-k-c0x00ffffff-no-rj | 23 | 23
 https://www.youtube.com/watch?v=zPbvl14dPCo
-
-News24 | News | https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj | 24 | 24
-https://www.youtube.com/live/cypBrJzVaKY
-
-NDTV India | News | https://yt3.googleusercontent.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww=s176-c-k-c0x00ffffff-no-rj | 25 | 25
-https://www.youtube.com/live/MN8p-Vrn6G0
 
 CNBC TV18 | News | https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj | 26 | 26
 https://www.youtube.com/live/1_Ih0JYmkjI
