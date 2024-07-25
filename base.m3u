@@ -115,13 +115,13 @@ https://jmp2.uk/SamsungTVPlus/INBC43000016J.m3u8
 https://jmp2.uk/SamsungTVPlus/INBC28000122W.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png" tvg-chno="17" group-title="India" , 9X Jalwa
-https://jmp2.uk/SamsungTVPlus/INBC2800013L6.m3u8
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="19" group-title="India" , Maiboli
 https://jmp2.uk/SamsungTVPlus/INBC1500014OM.m3u8
 
 #EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png" tvg-chno="18" group-title="India" , 9X Jhakaas
-https://jmp2.uk/SamsungTVPlus/INBC28000144H.m3u8
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="9"  group-title="Hindi" ,Shemaroo TV
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
@@ -131,6 +131,9 @@ https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="99"  group-title="Hindi" ,Shemaroo Umang
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="100"  group-title="Hindi" ,Shemaroo Bollywood
+https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
