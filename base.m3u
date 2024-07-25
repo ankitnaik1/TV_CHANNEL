@@ -135,6 +135,9 @@ https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="100"  group-title="Hindi" ,Shemaroo Bollywood
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Hindi",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
 #   ██  ██  ██    ██ ██    ██    ██    ██    ██ ██   ██ ██      #
