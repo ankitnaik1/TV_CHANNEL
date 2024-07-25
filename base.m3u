@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://192.168.1.111:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="1.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="1" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
 http://192.168.1.111:8409/iptv/channel/1.ts
-#EXTINF:0 tvg-id="10.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="10" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="10" tvg-name="HarryPotter TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter TV
-http://192.168.1.111:8409/iptv/channel/10.ts
-#EXTINF:0 tvg-id="11.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="11" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="11" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
-http://192.168.1.111:8409/iptv/channel/11.ts
 #EXTINF:0 tvg-id="14.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="14" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="14" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/C13E952E2BD8CCC8B6D71BB8EDF81EFB.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
 http://192.168.1.111:8409/iptv/channel/14.ts
+#EXTINF:0 tvg-id="15.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="15" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="15" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
+http://192.168.1.111:8409/iptv/channel/15.ts
+#EXTINF:0 tvg-id="16.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="16" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="16" tvg-name="HarryPotter TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter TV
+http://192.168.1.111:8409/iptv/channel/16.ts
 #EXTINF:0 tvg-id="50.etv" channel-id="h9LvtLSX7EGIGB45aKkQgA" channel-number="50" CUID="h9LvtLSX7EGIGB45aKkQgA" tvg-chno="50" tvg-name="Mad Men" tvg-logo="http://192.168.1.111:8409/iptv/logos/33857FE55B6A55F86ADB1BC0E86FF4C9.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Mad Men
 http://192.168.1.111:8409/iptv/channel/50.ts
 #EXTINF:0 tvg-id="51.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="51" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="51" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/60D76F31E4EF02F6EDE1D8852C49560C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
@@ -55,7 +55,7 @@ https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="12" group-title="Marathi",Sony Marathi
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
 
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="12"  group-title="Marathi" ,Shemaroo Marathi Bana
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" tvg-chno="20" group-title="News",ABP Majha
@@ -77,7 +77,7 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" group-title="English",Sony Pix
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" group-title="Movies",Sony Yay
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" tvg-chno="17" group-title="Kids",Sony Yay
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyyay
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/A2LC43Cl.png" group-title="Sports",Sony Sports Ten 1
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten1hd
