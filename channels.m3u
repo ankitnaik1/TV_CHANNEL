@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://192.168.1.111:8409/iptv/xmltv.xml" x-tvg-url="http://192.168.1.111:8409/iptv/xmltv.xml"
 #EXTINF:0 tvg-id="1.etv" channel-id="0gSYtfJp-Eq3ZuCSz-wyag" channel-number="1" CUID="0gSYtfJp-Eq3ZuCSz-wyag" tvg-chno="1" tvg-name="TMKOC" tvg-logo="http://192.168.1.111:8409/iptv/logos/23BCA52EC273B5EF3862ABFE0A8DF12C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TMKOC
 http://192.168.1.111:8409/iptv/channel/1.ts
-#EXTINF:0 tvg-id="10.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="10" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="10" tvg-name="HarryPotter TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter TV
-http://192.168.1.111:8409/iptv/channel/10.ts
-#EXTINF:0 tvg-id="11.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="11" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="11" tvg-name="KIDs ANIME TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", KIDs ANIME TV
-http://192.168.1.111:8409/iptv/channel/11.ts
 #EXTINF:0 tvg-id="14.etv" channel-id="xNft5GA81UynnS17r8g0Rw" channel-number="14" CUID="xNft5GA81UynnS17r8g0Rw" tvg-chno="14" tvg-name="FlixTV Music" tvg-logo="http://192.168.1.111:8409/iptv/logos/C13E952E2BD8CCC8B6D71BB8EDF81EFB.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", FlixTV Music
 http://192.168.1.111:8409/iptv/channel/14.ts
+#EXTINF:0 tvg-id="15.etv" channel-id="2Skz1ptQKU-StVkNmdwElA" channel-number="15" CUID="2Skz1ptQKU-StVkNmdwElA" tvg-chno="15" tvg-name="TV Asahi" tvg-logo="http://192.168.1.111:8409/iptv/logos/170298575FE7FA0EC21D79C3244F3ED7.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", TV Asahi
+http://192.168.1.111:8409/iptv/channel/15.ts
+#EXTINF:0 tvg-id="16.etv" channel-id="LixNtuHxmEqtDSrqBnsnwA" channel-number="16" CUID="LixNtuHxmEqtDSrqBnsnwA" tvg-chno="16" tvg-name="HarryPotter TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/117FC622DBB23F532C33A69CE1296A67.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", HarryPotter TV
+http://192.168.1.111:8409/iptv/channel/16.ts
 #EXTINF:0 tvg-id="50.etv" channel-id="h9LvtLSX7EGIGB45aKkQgA" channel-number="50" CUID="h9LvtLSX7EGIGB45aKkQgA" tvg-chno="50" tvg-name="Mad Men" tvg-logo="http://192.168.1.111:8409/iptv/logos/33857FE55B6A55F86ADB1BC0E86FF4C9.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Mad Men
 http://192.168.1.111:8409/iptv/channel/50.ts
 #EXTINF:0 tvg-id="51.etv" channel-id="fevoJrjkiEKIY-fBmVxudQ" channel-number="51" CUID="fevoJrjkiEKIY-fBmVxudQ" tvg-chno="51" tvg-name="Youtube" tvg-logo="http://192.168.1.111:8409/iptv/logos/60D76F31E4EF02F6EDE1D8852C49560C.jpg" group-title="ErsatzTV" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Youtube
@@ -21,149 +21,70 @@ http://192.168.1.111:8409/iptv/channel/52.ts
 #       ██ ██   ██ ██  ██  ██      ██ ██    ██ ██  ██ ██ ██    ██  #
 #  ███████ ██   ██ ██      ██ ███████  ██████  ██   ████  ██████   #
 ####################################################################
-#EXTINF:-1 channel-id="samsung-INBD21000016Y" tvg-id="INBD21000016Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD21000016Y_20230726T002252SQUARE.png_20230726002253.png" tvg-chno="2" group-title="India" , The Movie Club
-https://jmp2.uk/SamsungTVPlus/INBD21000016Y.m3u8
 
-#EXTINF:-1 channel-id="samsung-INBD4700006JD" tvg-id="INBD4700006JD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700006JD_20240417T022449SQUARE.png" tvg-chno="1001" group-title="India" , Comedy King
-https://jmp2.uk/SamsungTVPlus/INBD4700006JD.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD4800001IR" tvg-id="INBD4800001IR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20240508T020849SQUARE.png" tvg-chno="3" group-title="India" , South Station
-https://jmp2.uk/SamsungTVPlus/INBD4800001IR.m3u8
-
-#EXTINF:-1 channel-id="samsung-IN1700003HF" tvg-id="IN1700003HF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1700003HF_20240626T024556SQUARE.png" tvg-chno="15" group-title="India" , Mastiii
-https://jmp2.uk/SamsungTVPlus/IN1700003HF.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD1300015JE" tvg-id="INBD1300015JE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300015JE_20230809T020929SQUARE.png_20230809020930.png" tvg-chno="6" group-title="India" , Dangal TV
-https://jmp2.uk/SamsungTVPlus/INBD1300015JE.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC4300008IH" tvg-id="INBC4300008IH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300008IH_20240626T024554SQUARE.png" tvg-chno="1114" group-title="India" , Korean TV
-https://jmp2.uk/SamsungTVPlus/INBC4300008IH.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA4900028KJ" tvg-id="INBA4900028KJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900028KJ_20220427T054642SQUARE.png_20220427054643.png" tvg-chno="1117" group-title="India" , Real Crime
-https://jmp2.uk/SamsungTVPlus/INBA4900028KJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA510000407" tvg-id="INBA510000407" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA510000407_20220726T235649SQUARE.png_20220726235650.png" tvg-chno="1119" group-title="India" , True Crime Now
-https://jmp2.uk/SamsungTVPlus/INBA510000407.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD47000014D" tvg-id="INBD47000014D" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000014D_20240214T030802SQUARE.png_20240214030803.png" tvg-chno="7" group-title="India" , The Q
-https://jmp2.uk/SamsungTVPlus/INBD47000014D.m3u8
-
-#EXTINF:-1 channel-id="samsung-IN1600001OG" tvg-id="IN1600001OG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN1600001OG_20240612T015018SQUARE.png" tvg-chno="1125" group-title="India" , Pitaara Comedy
-https://jmp2.uk/SamsungTVPlus/IN1600001OG.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA5100030AO" tvg-id="INBA5100030AO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100030AO_20220427T054551SQUARE.png_20220427054552.png" tvg-chno="1129" group-title="India" , FailArmy
-https://jmp2.uk/SamsungTVPlus/INBA5100030AO.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA5100029JI" tvg-id="INBA5100029JI" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100029JI_20220427T054705SQUARE.png_20220427054706.png" tvg-chno="1131" group-title="India" , The Pet Collective
-https://jmp2.uk/SamsungTVPlus/INBA5100029JI.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA49000168L" tvg-id="INBA49000168L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000168L_20220427T054628SQUARE.png_20220427054629.png" tvg-chno="1133" group-title="India" , Nosey
-https://jmp2.uk/SamsungTVPlus/INBA49000168L.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA4900009BL" tvg-id="INBA4900009BL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900009BL_20220824T022303SQUARE.png_20220824022303.png" tvg-chno="1137" group-title="India" , Real Stories
-https://jmp2.uk/SamsungTVPlus/INBA4900009BL.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBB280000599" tvg-id="INBB280000599" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB280000599_20221026T004843SQUARE.png_20221026004843.png" tvg-chno="1171" group-title="India" , WildEarth
-https://jmp2.uk/SamsungTVPlus/INBB280000599.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA4900023QJ" tvg-id="INBA4900023QJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900023QJ_20220427T054726SQUARE.png_20220427054727.png" tvg-chno="1173" group-title="India" , Xplore
-https://jmp2.uk/SamsungTVPlus/INBA4900023QJ.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD1300021X3" tvg-id="INBD1300021X3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD1300021X3_20231011T013448SQUARE.png_20231011013449.png" tvg-chno="13" group-title="India" , Pogo
-https://jmp2.uk/SamsungTVPlus/INBD1300021X3.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD13000205L" tvg-id="INBD13000205L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000205L_20231115T014715SQUARE.png_20231115014716.png" tvg-chno="12" group-title="India" , Cartoon Network
-https://jmp2.uk/SamsungTVPlus/INBD13000205L.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD4700007IQ" tvg-id="INBD4700007IQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240522T015917SQUARE.png" tvg-chno="1272" group-title="India" , Q Toonz
-https://jmp2.uk/SamsungTVPlus/INBD4700007IQ.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC280001662" tvg-id="INBC280001662" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC280001662_20221026T004838SQUARE.png_20221026004839.png" tvg-chno="1273" group-title="India" , BABY FIRST
-https://jmp2.uk/SamsungTVPlus/INBC280001662.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD13000043W" tvg-id="INBD13000043W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD13000043W_20231213T034416SQUARE.png_20231213034417.png" tvg-chno="1275" group-title="India" , Animax
-https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC43000071R" tvg-id="INBC43000071R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" tvg-chno="1313" group-title="India" , Hollywood Desi
-https://jmp2.uk/SamsungTVPlus/INBC43000071R.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC43000034X" tvg-id="INBC43000034X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000034X_20230614T012649SQUARE.png_20230614012650.png" tvg-chno="1315" group-title="India" , BEST ACTION TV
-https://jmp2.uk/SamsungTVPlus/INBC43000034X.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBD4700008UG" tvg-id="INBD4700008UG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700008UG_20240522T015919SQUARE.png" tvg-chno="4" group-title="India" , RDC Movies
-https://jmp2.uk/SamsungTVPlus/INBD4700008UG.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC150001539" tvg-id="INBC150001539" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC150001539_20220525T002414SQUARE.png_20220525002416.png" tvg-chno="1321" group-title="India" , Dabangg
-https://jmp2.uk/SamsungTVPlus/INBC150001539.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC4300006K2" tvg-id="INBC4300006K2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC4300006K2_20230614T012644SQUARE.png_20230614012645.png" tvg-chno="5" group-title="India" , Cook & Bake
-https://jmp2.uk/SamsungTVPlus/INBC4300006K2.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBA51000038B" tvg-id="INBA51000038B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA51000038B_20220427T054758SQUARE.png_20220427054759.png" tvg-chno="1367" group-title="India" , Fashion TV
-https://jmp2.uk/SamsungTVPlus/INBA51000038B.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC2800007ZP" tvg-id="INBC2800007ZP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800007ZP_20220928T010054SQUARE.png_20220928010055.png" tvg-chno="1375" group-title="India" , NDTV GoodTimes
-https://jmp2.uk/SamsungTVPlus/INBC2800007ZP.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC2800020QX" tvg-id="INBC2800020QX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png" tvg-chno="1377" group-title="India" , Heritage
-https://jmp2.uk/SamsungTVPlus/INBC2800020QX.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC43000016J" tvg-id="INBC43000016J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000016J_20230111T005122SQUARE.png_20230111005122.png" tvg-chno="1378" group-title="India" , HD TRAVEL
-https://jmp2.uk/SamsungTVPlus/INBC43000016J.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC28000122W" tvg-id="INBC28000122W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000122W_20240131T032427SQUARE.png_20240131032428.png" tvg-chno="16" group-title="India" , 9X Music
-https://jmp2.uk/SamsungTVPlus/INBC28000122W.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC2800013L6" tvg-id="INBC2800013L6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800013L6_20240131T032422SQUARE.png_20240131032423.png" tvg-chno="17" group-title="India" , 9X Jalwa
-https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC1500014OM" tvg-id="INBC1500014OM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500014OM_20240131T032453SQUARE.png_20240131032453.png" tvg-chno="19" group-title="India" , Maiboli
-https://jmp2.uk/SamsungTVPlus/INBC1500014OM.m3u8
-
-#EXTINF:-1 channel-id="samsung-INBC28000144H" tvg-id="INBC28000144H" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC28000144H_20240131T032425SQUARE.png_20240131032426.png" tvg-chno="18" group-title="India" , 9X Jhakaas
-https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="9"  group-title="Hindi" ,Shemaroo TV
-https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
-
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="8"  group-title="Marathi" ,Shemaroo Marathi Bana
-https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
-
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="99"  group-title="Hindi" ,Shemaroo Umang
-https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
-
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="100"  group-title="Hindi" ,Shemaroo Bollywood
-https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
-
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="102" group-title="Hindi",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="101" group-title="Marathi",Sony Marathi
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
-
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://i.imgur.com/XVUGLxa.png" tvg-chno="103" group-title="English",Sony BBC Earth
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
-
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-logo="https://i.imgur.com/VjmM2DO.png" tvg-chno="104" group-title="Hindi",Sony Entertainment Television
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-chno="2" group-title="Hindi",Sony Entertainment Television
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
 
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="105" group-title="Hindi",Sony Kal (1080p)
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://i.imgur.com/AFXPVYD.png" tvg-chno="106" group-title="Hindi",Sony MAX (1080p)
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
-
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://i.imgur.com/GnoJkj4.png" tvg-chno="107" group-title="Hindi",Sony Pal (1080p)
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
-
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" tvg-chno="108" group-title="Hindi",Sony Pix
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
-
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png" tvg-chno="109" group-title="Hindi",Sony SAB
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" tvg-chno="3" group-title="Hindi",Sony SAB
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
 
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Sony_Wah_new.png" tvg-chno="110" group-title="Hindi",Sony Wah (1080p)
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://i.imgur.com/UNNcOef.png" tvg-chno="4" group-title="Hindi",Shemaroo TV
+https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="5"  group-title="Hindi" ,Shemaroo Umang
+https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
+
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Max" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
+
+#EXTINF:-1 tvg-id="Max2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hjNGCIwr.png" tvg-chno="9" group-title="Hindi",Sony MAX 2
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax2
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7cdRLkFh.png" tvg-chno"10" group-title="Hindi",Sony Wah
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonywah
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="11"  group-title="Hindi" ,Shemaroo Bollywood
+https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
+
+#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="12" group-title="Marathi",Sony Marathi
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
+
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
+https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
+
+#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" tvg-chno="20" group-title="News",ABP Majha
+https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
+
+#EXTINF:-1 tvg-id="Zee24Taas.in" tvg-logo="https://i.imgur.com/KVDGQI1.png" tvg-chno="23" group-title="News",Zee 24 Taas
+https://news.codeautoplay.workers.dev/?channel=zee24taas&codeby=nd
+
+#EXTINF:-1 tvg-id="News24.in" tvg-logo="https://i.imgur.com/x72O77X.png" tvg-chno="24" group-title="News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" tvg-chno="25" group-title="News",Zee News
+https://news.codeautoplay.workers.dev/?channel=zeenews&codeby=nd
+
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" tvg-chno="26" group-title="News",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-chno="100" group-title="English",Sony BBC Earth
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" group-title="English",Sony Pix
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" tvg-chno="17" group-title="Kids",Sony Yay
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyyay
+#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/A2LC43Cl.png" group-title="Sports",Sony Sports Ten 1
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten1hd
+#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/geV9TIXA.png" group-title="Sports",Sony Sports Ten 2
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten2hd
+#EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 3
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten3hd
 
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
@@ -175,29 +96,17 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonywah
 
 #EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
 
-#EXTINF:-1 group-title="Marathi" tvg-logo="https://yt3.googleusercontent.com/8RWTnNmhpghFXB3QE6iQZFly4r9gBdfk8938GmRk5jBnu6g_kFa8UateVnAJZ846mXcDJIqRZI8=s176-c-k-c0x00ffffff-no-rj" tvg-id="20" tvg-chno="20", Zee 24 Taas
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917255/ei/5wqiZpaJH_iL2_gPxsDcmAU/ip/172.183.53.140/id/NXdV9GqtXHc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAbMyPJI3pTjbTBNBmec2OhodhC2pkOQrUgFY3HPr3KEzT7u3TJ0emtYqQ1w/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALzKWuM-QwnDaT_S6cYK0nzpzpQz7H-fBvlPLoXbzjU2AiBByEE_v4cELBx9lIHanMOnTThv3bAZeR6JfHiBD7K0hQ%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj" tvg-id="21" tvg-chno="21", Pudhari
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721924575/ei/fyeiZpSAF6yaybgPnfXEuAQ/ip/172.183.50.148/id/gBfVveGy6hY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAe1p4awErW348VMoX8oWWUiQlriIOnlJ_N0AcnpYosxd0An9nLLilRU667A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTpq2YSWy4DgH5Sxnwupn0T7IXKnu95dXwnxaLBIFXrICIQCxrn-rfo113vOpyl2VIHvwvJzTppjXomEmedsPEf1diQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Marathi" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nD-S56z9X07knh80RdBw0HL-KP7VeHrdN8_NeQs5KrRow=s176-c-k-c0x00ffffff-no-rj" tvg-id="21" tvg-chno="21", ABP MAZHA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917256/ei/6AqiZrLrA4ydybgPq5uL0As/ip/172.183.53.140/id/m0MD6Ukm0cQ.127/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaMsQlkFkoMcVWwJmjdnntGtZuP06aXtp2pwfJ_71QulrrE4DFBsQzxwhEA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMUhn9urby6oYdZNfKQfdsJe00fHADarunrUaxwGU2QUAiB0VDSTDatqUfSwmK6iFcXyzfcO6U1k-K2Wv5VxASGnUA%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Marathi" tvg-logo="https://yt3.googleusercontent.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB=s160-c-k-c0x00ffffff-no-rj" tvg-id="22" tvg-chno="22", Saam Tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721924575/ei/fyeiZtW1NJqylu8PgfWsmQU/ip/172.183.50.148/id/zPbvl14dPCo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51233683/txs/51233681%2C51233682%2C51233683%2C51233684%2C51233685/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQeQ6zeevE8flK5FMrpasHSzrj2WOIuqbfPS7eha4lkCUvKzn2ewRWIoXm4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALYysyUX4jtbdfP8vYG1baH9zpkpXv-0iH0dAsrOQgumAiEAhLWiG7yESBTQraRh_4T0f9QojAMOcBWyJcQplNd4dUQ%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Marathi" tvg-logo="https://yt3.googleusercontent.com/dogeo5unG6_Emq06Djkyf3werRCTmc_2ldKPHiLRH-DDshnLzMf0uippWYoRneV5okxwDpmd=s176-c-k-c0x00ffffff-no-rj" tvg-id="22" tvg-chno="22", Pudhari
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917256/ei/6AqiZrToJq6slu8P5t-UqA8/ip/172.183.53.140/id/3MfVOYP8-XY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bATgFfRdx_MA5VSY9mm6o_Hf0pqXeXYDPY_F_NVvNvslwiXwaMvmL-t-_aoY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPGTzAxMPAG3ZXCaje6iHCH8YKBAtkBD9I6XkN1u1yQQCIQDyLxSLvNHb7nxMUm5LoMJ59KWQ3Tegx2R3smh5V8XW1w%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj" tvg-id="27" tvg-chno="27", CNBC TV18
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721924576/ei/gCeiZp3BGf-hlu8P9Y6gmAE/ip/172.183.50.148/id/1_Ih0JYmkjI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225979/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAX6QjsMoUr4Dq0ZDYKf0E_87GBIO5OACQ7xB7mwIm5q6lGHeegHTk-Om5o0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgPbnXGZN9OkdwItzO9f2R3qx8N8XsO8sEJ-fYi06R5ZYCIQDH9UclQAKLSvn2HHJJYWU0XYbom8j0LxbqdqNLqpzE5Q%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="Marathi" tvg-logo="https://yt3.googleusercontent.com/fJzqC4rfW_QQQkMVo1c6kNp80xgqd-bI5rUE3U2SqcZmMDnEsTjRosVpxG1axnDHifcpWKSB=s160-c-k-c0x00ffffff-no-rj" tvg-id="23" tvg-chno="23", Saam Tv
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917257/ei/6QqiZrbFC4a-lu8PrPK_mA0/ip/172.183.53.140/id/zPbvl14dPCo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225978/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUUt-51U1QHL73cKvq_Hpu81q5eAMJGC61MYdKG2EGNXziBQAn0CvE5oGXA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPJMyFpiwe5o6igtYN8qJDLqi8KbTmJOqHAaPKrJa8jACIHd24KSHjhufUhU0AWFbEdwq1xQ6k8kwsn5Lep2NaTZl/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj" tvg-id="28" tvg-chno="28", Bloomberg Global Financial News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721924576/ei/gCeiZvyFObmUybgPk8yfgQI/ip/172.183.50.148/id/iyOq8DhaMYw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225980/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAXXC_mvNwHrQ72XOmGLrYjCtC9b3GnX2_eBi8abhZFMWXFkRqiUvFrrpEfI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOV3lMxLDpqcYAaTfg80eJX3dDR_dVFBM8Z3y_w9CWxYCIQDfghVfz460cyPWPbOk2mj0lZ1-sKq6FjfIog9pjIOOqQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/0s6QsqTesFqsXncW5Bj3cEVs7eTmBQ8ds4gez2rEp10ZvP08q71vZtrc3rzKXLMqsrctF737sDU=s176-c-k-c0x00ffffff-no-rj" tvg-id="24" tvg-chno="24", News24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917257/ei/6QqiZs-aLcmBlu8Pp7qj6Ag/ip/172.183.53.140/id/cypBrJzVaKY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAebrO0pDa0_tbNnX5Uaz2X5uNAv7P7Y1sEG_xbbq3lzCxR7AtyYCpYsIq1o/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPIrb1grnmPw9AxlK3crSq3qfxNHv_M3rlo5FSXYK9L-AiB5752UWAal6v3ZvcArs-PBCE0nOApYJlxfXUTGlMOO6A%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/75NPG2RuKD_ndulSMb3xO0n6HKBTyrVyv7ckC3V4tcICZkI3Ef0kAIfXbOWDWmwDCsfvXPjaww=s176-c-k-c0x00ffffff-no-rj" tvg-id="25" tvg-chno="25", NDTV India
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917258/ei/6gqiZu64ELqWybgPvtiskAU/ip/172.183.53.140/id/MN8p-Vrn6G0.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAdW4pyewOndpsq28F62jssx3228Elp0VW84DpURgBxcvkRWRQ2INKDpM41Y/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKipx7oSMh8ntMrumruNOOt1jg46SQ4rCd1IUH3wveKgCIQCowhv1CHbd4UfeSqOdTq66kSawEw_6I_p3IZtjm2gzQg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/JySEhLOv8Llm0VZBxo5iCttTVg80ttt90xTxhBGm7XSXiEuPA_0liFIiBpokEonD8pvdKy0r=s176-c-k-c0x00ffffff-no-rj" tvg-id="26" tvg-chno="26", CNBC TV18
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917258/ei/6gqiZrmML5Dxir4PiJ3U6Q4/ip/172.183.53.140/id/1_Ih0JYmkjI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51166971/txs/51166969%2C51166970%2C51166971%2C51166972/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAT8ON6kv7YI583JsF7MAwVadPLlgevTpihgyL0waqzIo3l66bB6MWraIOuU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIE9HBmJHxMgwU7D45BR7Z6ulk3iwHjtTjkC0l9iyhjxAiBoeTsyqkHE1f9a-sHOA_Hw63BXhr86iCCrWj-eEChZVA%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/-kcohSPXknvrybix3K6ayjkT3_vn0Hily7cED3KwrlYzXYNzTXrgmg4ea04Yurmzkgk04A6j3Rg=s176-c-k-c0x00ffffff-no-rj" tvg-id="27" tvg-chno="27", Bloomberg Global Financial News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917259/ei/6wqiZu6lDNWwlu8P3PrFqQY/ip/172.183.53.140/id/iyOq8DhaMYw.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAStlGRC5CrIMcYSRSWTwz1IZZUVCISpPrVuO5Se8KMH1_rB78FBaKyWO5Q0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgD1HZ6tlpt3UZHpVp8x0VMsLN_oTefYttTlXy0J-qj1UCIQD5caOQJn0d6YpeRY7REVS6-Aj5xqqpebW_iZRAgkH3sg%3D%3D/file/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s176-c-k-c0x00ffffff-no-rj" tvg-id="28" tvg-chno="28", CNA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721917259/ei/6wqiZtS5L_ma2_gPiNT9sAQ/ip/172.183.53.140/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAd82IJOw1aRiwh7L_fvGA1rpCsIMPBSMwVGJeGl91p-H2jUsCvHryD08mfI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMXtqYyTwCn_GzCAptCezVw9wBF8IloGbpNGhrQBr_M4CIBD3f3AeHy0axGL9ogkqMWhh6BN8MLzmpi46tdQKN2cq/file/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s176-c-k-c0x00ffffff-no-rj" tvg-id="29" tvg-chno="29", CNA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721924577/ei/gSeiZpG4F-Whlu8PhJy2sAw/ip/172.183.50.148/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUlkIJerPWCFLVncqtwjNqbTnAA9B1buXu6MqX6nDhUd89uuZiMrPSHTtOY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFzDAv0Pixtu1YeD9uQRGKrhe8TjYTbQVmSOIY--_H3ICIQDTrKNZ_pEKu35vNPujZrpRRIrCmvooy2Y2zuyTwKGWMA%3D%3D/file/index.m3u8
