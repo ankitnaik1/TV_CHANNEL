@@ -135,8 +135,35 @@ https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="100"  group-title="Hindi" ,Shemaroo Bollywood
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Hindi",Sony Kal
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="102" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="101" group-title="Marathi",Sony Marathi
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
+
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://i.imgur.com/XVUGLxa.png" tvg-chno="103" group-title="English",Sony BBC Earth
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
+
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-logo="https://i.imgur.com/VjmM2DO.png" tvg-chno="104" group-title="Hindi",Sony Entertainment Television
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
+
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="105" group-title="Hindi",Sony Kal (1080p)
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MaxMiddleEast.in" tvg-logo="https://i.imgur.com/AFXPVYD.png" tvg-chno="106" group-title="Hindi",Sony MAX (1080p)
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
+
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://i.imgur.com/GnoJkj4.png" tvg-chno="107" group-title="Hindi",Sony Pal (1080p)
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
+
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png" tvg-chno="108" group-title="Hindi",Sony Pix
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
+
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/512px-Sony_Sab_new.png" tvg-chno="109" group-title="Hindi",Sony SAB
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
+
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1c/Sony_Wah_new.png" tvg-chno="110" group-title="Hindi",Sony Wah (1080p)
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonywah
 
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
