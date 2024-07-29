@@ -28,10 +28,10 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" tvg-chno="3" group-title="Hindi",Sony SAB
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
 
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://i.imgur.com/UNNcOef.png" tvg-chno="4" group-title="Hindi",Shemaroo TV
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" tvg-chno="4" group-title="Hindi",Shemaroo TV
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
 
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="5"  group-title="Hindi" ,Shemaroo Umang
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Je5jmVZi.png" tvg-chno="5"  group-title="Hindi" ,Shemaroo Umang
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
 
 #EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
@@ -55,7 +55,7 @@ https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 #EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="12" group-title="Marathi",Sony Marathi
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
 
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://dthhelper.com/wp-content/uploads/2021/06/Shemaroo-Marathi-Bana-channel-number.jpg" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N3sGMDot.png" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
 #EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" tvg-chno="20" group-title="News",ABP Majha
