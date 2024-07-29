@@ -14,13 +14,7 @@ http://192.168.1.111:8409/iptv/channel/51.ts
 #EXTINF:0 tvg-id="52.etv" channel-id="exLMITRPOEausClECRyhDg" channel-number="52" CUID="exLMITRPOEausClECRyhDg" tvg-chno="52" tvg-name="Dragon Ball TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/AF42DCF5E2B5E1CBCFDE498C2D644E1C.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dragon Ball TV
 http://192.168.1.111:8409/iptv/channel/52.ts
 
-####################################################################
-#  ███████  █████  ███    ███ ███████ ██    ██ ███    ██  ██████   #
-#  ██      ██   ██ ████  ████ ██      ██    ██ ████   ██ ██        #
-#  ███████ ███████ ██ ████ ██ ███████ ██    ██ ██ ██  ██ ██   ███  #
-#       ██ ██   ██ ██  ██  ██      ██ ██    ██ ██  ██ ██ ██    ██  #
-#  ███████ ██   ██ ██      ██ ███████  ██████  ██   ████  ██████   #
-####################################################################
+# WEB
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-chno="2" group-title="Hindi",Sony Entertainment Television
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
@@ -58,31 +52,21 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N3sGMDot.png" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png" tvg-chno="20" group-title="News",ABP Majha
-https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8
-
-#EXTINF:-1 tvg-id="Zee24Taas.in" tvg-logo="https://i.imgur.com/KVDGQI1.png" tvg-chno="23" group-title="News",Zee 24 Taas
-https://news.codeautoplay.workers.dev/?channel=zee24taas&codeby=nd
-
-#EXTINF:-1 tvg-id="News24.in" tvg-logo="https://i.imgur.com/x72O77X.png" tvg-chno="24" group-title="News",News 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ZeeNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png" tvg-chno="25" group-title="News",Zee News
-https://news.codeautoplay.workers.dev/?channel=zeenews&codeby=nd
-
-#EXTINF:-1 tvg-id="ABPNews.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ABP_News_logo.svg/512px-ABP_News_logo.svg.png" tvg-chno="26" group-title="News",ABP News
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-
 #EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-chno="100" group-title="English",Sony BBC Earth
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
+
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" group-title="English",Sony Pix
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
+
 #EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" tvg-chno="17" group-title="Kids",Sony Yay
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyyay
+
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/A2LC43Cl.png" group-title="Sports",Sony Sports Ten 1
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten1hd
+
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/geV9TIXA.png" group-title="Sports",Sony Sports Ten 2
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten2hd
+
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 3
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten3hd
 
