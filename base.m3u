@@ -16,49 +16,49 @@ http://192.168.1.111:8409/iptv/channel/52.ts
 
 # WEB
 
-#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-chno="2" group-title="Hindi",Sony Entertainment Television
+#EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-chno="2" group-title="Hindi",Sony Entertainment Television
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
 
-#EXTINF:-1 tvg-id="SonySAB.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" tvg-chno="3" group-title="Hindi",Sony SAB
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" tvg-chno="3" group-title="Hindi",Sony SAB
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
 
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" tvg-chno="4" group-title="Hindi",Shemaroo TV
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" tvg-chno="4" group-title="Hindi",Shemaroo TV
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
 
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Je5jmVZi.png" tvg-chno="5"  group-title="Hindi" ,Shemaroo Umang
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Je5jmVZi.png" tvg-chno="5"  group-title="Hindi" ,Shemaroo Umang
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
 
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
 
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Max" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
+#EXTINF:-1 tvg-id="Max" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/HicI6HpV.png" tvg-chno="8" group-title="Hindi",Sony MAX
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax
 
-#EXTINF:-1 tvg-id="Max2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hjNGCIwr.png" tvg-chno="9" group-title="Hindi",Sony MAX 2
+#EXTINF:-1 tvg-id="Max2" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hjNGCIwr.png" tvg-chno="9" group-title="Hindi",Sony MAX 2
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymax2
 
-#EXTINF:-1 tvg-id="SonyWah.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7cdRLkFh.png" tvg-chno"10" group-title="Hindi",Sony Wah
+#EXTINF:-1 tvg-id="SonyWah.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7cdRLkFh.png" tvg-chno"10" group-title="Hindi",Sony Wah
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonywah
 
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="11"  group-title="Hindi" ,Shemaroo Bollywood
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-language="Hindi" tvg-logo="https://www.shemaroome.com/assets/shemaroo_logo.svg" tvg-chno="11"  group-title="Hindi" ,Shemaroo Bollywood
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroobollywood&codeby=nd
 
-#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="12" group-title="Marathi",Sony Marathi
+#EXTINF:-1 tvg-id="SonyMarathi.in" tvg-language="Marathi" tvg-logo="https://i.imgur.com/uiDnvqt.png" tvg-chno="12" group-title="Marathi",Sony Marathi
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonymarathi
 
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N3sGMDot.png" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in" tvg-language="Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/N3sGMDot.png" tvg-chno="13"  group-title="Marathi" ,Shemaroo Marathi Bana
 https://shemaroo.codeautoplay.workers.dev/?channel=shemaroomarathibana&codeby=nd
 
-#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-chno="100" group-title="English",Sony BBC Earth
+#EXTINF:-1 tvg-id="SonyBBCEarth.in" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/qrQ8Ti1k.png" tvg-chno="100" group-title="English",Sony BBC Earth
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonybbcearth
 
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" group-title="English",Sony Pix
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Akqg656.png" group-title="English",Sony Pix
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypixhd
 
-#EXTINF:-1 tvg-id="SonyYay.in" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" tvg-chno="17" group-title="Kids",Sony Yay
+#EXTINF:-1 tvg-id="SonyYay.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/RF8xcb5S.png" tvg-chno="17" group-title="Kids",Sony Yay
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyyay
 
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/A2LC43Cl.png" group-title="Sports",Sony Sports Ten 1
@@ -69,6 +69,63 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten2hd
 
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 3
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten3hd
+
+##Color
+
+#EXTINF:-1 tvg-id="1" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IilMxFlr.png",Colors HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VV8AvTxY.png",Rishtey
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="5" group-title="Marathi" tvg-language="Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gkpCmwTw.png",Colors Marathi HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="8" group-title="English" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="8" group-title="English" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Comedy Central HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="10" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="11" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",Colors Cineplex Superhit
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="12" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",Colors Cineplex Bollywood
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="14" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",MTV HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="15" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg",MTV Beats HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="16" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Junior
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="17" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nickelodeon Jr.
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="18" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="19" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="20" group-title="Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",SPORTS 18 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="21" group-title="Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",SPORTS 18 Khel
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+
+#EXTINF:-1 tvg-id="22" group-title="Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",JC Sports 24x7
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="23" group-title="Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",CricStream
+https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #################################################################
 #  ██    ██  ██████  ██    ██ ████████ ██    ██ ██████  ███████ # 
