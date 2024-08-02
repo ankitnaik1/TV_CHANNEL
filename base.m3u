@@ -72,58 +72,58 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten3hd
 
 ##Color Source https://github.com/Maxmentor/JioCinema-M3U-Playlist
 
-#EXTINF:-1 tvg-id="1" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IilMxFlr.png",Colors HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IilMxFlr.png",Colors HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="2" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VV8AvTxY.png",Rishtey
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VV8AvTxY.png",Rishtey
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="5" group-title="Marathi" tvg-language="Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gkpCmwTw.png",Colors Marathi HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Marathi" tvg-language="Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gkpCmwTw.png",Colors Marathi HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="8" group-title="English" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="English" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/FJTbKwJA.png",Colors Infinity HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="8" group-title="English" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Comedy Central HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="English" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2nooQja4.png",Comedy Central HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="10" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hLnucnRV.png",Colors Cineplex HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="11" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",Colors Cineplex Superhit
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/nQRphHPW.png",Colors Cineplex Superhit
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="12" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",Colors Cineplex Bollywood
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ntnToCGg.png",Colors Cineplex Bollywood
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="14" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",MTV HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/m3ulG4c2.png",MTV HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="15" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-beats-live-channels-16x9-1642675874665.jpg",MTV Beats HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QEDNq7db.png",MTV Beats HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="16" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Junior
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Kids" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/1Vj1lsct.png",Nick Junior
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="17" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nickelodeon Jr.
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Kids" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/7xwEn6CP.png",Nick
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickSD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="18" group-title="Kids" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Kids" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lK1e7tSN.png",Nick HD+
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_NickHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="19" group-title="Kids" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Kids" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/w9Mpzamq.png",Sonic
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="20" group-title="Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",SPORTS 18 HD
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Sports" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ZWzOegfe.png",SPORTS 18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="21" group-title="Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",SPORTS 18 Khel
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Sports" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/uOXu3vMi.png",SPORTS 18 Khel
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="22" group-title="Sports" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/jc_sports_horizontal_tray-1695561700528.jpg",JC Sports 24x7
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Sports" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ybQ6CJkz.png",JC Sports 24x7
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-id="23" group-title="Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports_zone_cricket_horizontal-1695032322122.jpg",CricStream
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Sports" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ybQ6CJkz.png",CricStream
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #################################################################
