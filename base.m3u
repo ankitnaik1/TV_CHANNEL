@@ -14,7 +14,13 @@ http://192.168.1.111:8409/iptv/channel/51.ts
 #EXTINF:0 tvg-id="52.etv" channel-id="exLMITRPOEausClECRyhDg" channel-number="52" CUID="exLMITRPOEausClECRyhDg" tvg-chno="52" tvg-name="Dragon Ball TV" tvg-logo="http://192.168.1.111:8409/iptv/logos/AF42DCF5E2B5E1CBCFDE498C2D644E1C.jpg" group-title="English" tvc-stream-vcodec="h264" tvc-stream-acodec="aac", Dragon Ball TV
 http://192.168.1.111:8409/iptv/channel/52.ts
 
-# WEB
+#####################################################################################################################################################
+#  ██     ██ ███████ ██████      ██      ██ ███    ██ ██   ██ ███████  source=##Color Source https://github.com/Maxmentor/JioCinema-M3U-Playlist
+#  ██     ██ ██      ██   ██     ██      ██ ████   ██ ██  ██  ██       source=##Sony&Shemaroo custom https://github.com/iptv-org/iptv
+#  ██  █  ██ █████   ██████      ██      ██ ██ ██  ██ █████   ███████  source=##SamsungTV https://i.mjh.nz/SamsungTVPlus/all.m3u8
+#  ██ ███ ██ ██      ██   ██     ██      ██ ██  ██ ██ ██  ██       ██ 
+#   ███ ███  ███████ ██████      ███████ ██ ██   ████ ██   ██ ███████ 
+#######################################################################################################################################################                                                                     
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTelevisionAsiaHD.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yaFKAY6M.png" tvg-chno="2" group-title="Hindi",Sony Entertainment Television
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
@@ -22,14 +28,29 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sethd
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/yDmI9h2m.png" tvg-chno="3" group-title="Hindi",Sony SAB
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sabhd
 
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IilMxFlr.png",Colors HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VV8AvTxY.png",Rishtey
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyPal.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
+https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
+
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/eKNhCAyD.png" tvg-chno="4" group-title="Hindi",Shemaroo TV
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarootv&codeby=nd
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/Je5jmVZi.png" tvg-chno="5"  group-title="Hindi" ,Shemaroo Umang
 https://shemaroo.codeautoplay.workers.dev/?channel=shemarooumang&codeby=nd
 
-#EXTINF:-1 tvg-id="SonyPal.in" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/n8OECjuJ.png" tvg-chno="6" group-title="Hindi",Sony Pal
-https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonypal
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hLnucnRV.png",Colors Cineplex HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/nQRphHPW.png",Colors Cineplex Superhit
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+
+#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ntnToCGg.png",Colors Cineplex Bollywood
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9Qq8DKh.png" tvg-chno="7" group-title="Hindi",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -70,14 +91,6 @@ https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten2hd
 #EXTINF:-1 tvg-id="sonysportsnetwork.com" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/5UpsLfba.png" group-title="Sports",Sony Sports Ten 3
 https://s.codeautoplay.workers.dev/?codeby=nd&channel=sonyten3hd
 
-##Color Source https://github.com/Maxmentor/JioCinema-M3U-Playlist
-
-#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/IilMxFlr.png",Colors HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VV8AvTxY.png",Rishtey
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
-
 #EXTINF:-1 tvg-id="ZistCinema" group-title="Marathi" tvg-language="Marathi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gkpCmwTw.png",Colors Marathi HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/index.m3u8
 
@@ -86,15 +99,6 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3
 
 #EXTINF:-1 tvg-id="ZistCinema" group-title="English" tvg-language="English" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/2nooQja4.png",Comedy Central HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ComedyCentralHD/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/hLnucnRV.png",Colors Cineplex HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/nQRphHPW.png",Colors Cineplex Superhit
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
-
-#EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ntnToCGg.png",Colors Cineplex Bollywood
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="ZistCinema" group-title="Hindi" tvg-language="Hindi" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/m3ulG4c2.png",MTV HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
